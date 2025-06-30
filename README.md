@@ -53,4 +53,51 @@ Built with **Streamlit** for an intuitive user interface and trained via the **H
 ```bash
 ├── app.py                         # Streamlit app with role-based LLM chat
 ├── requirements.txt              # Project dependencies
-├── Model_Training_&_Upload.ipynb # Fine-tuning + Upload to Hugging Face
+```
+
+---
+
+## 🔧 Setup & Installation
+
+> Make sure Python 3.8+ is installed.
+
+```bash
+# Clone the repo
+git clone https://github.com/Muhammad-Ahmed-Rayyan/VitalCare-GPT.git
+cd VitalCare-GPT
+
+# Install required libraries
+pip install -r requirements.txt
+
+# Run the Streamlit app
+streamlit run app.py
+```
+
+---
+
+## 📊 Model Fine-Tuning
+
+All training is performed using Hugging Face's `transformers` and `datasets` libraries in the included notebook.
+
+### `Model_Training_&_Upload.ipynb` Includes:
+- Loading and inspecting datasets (`BioASQ`)
+- Using tokenizer & model (`microsoft/biogpt`)
+- Preprocessing and training
+- Saving and uploading models to Hugging Face Hub
+
+---
+
+## ☁️ Hosting on Hugging Face
+
+Once the model is trained and saved, it can be uploaded to your Hugging Face model hub using:
+
+```python
+from huggingface_hub import HfApi
+
+api = HfApi()
+api.upload_folder(
+    folder_path = "./fine_tuned_model",     # Folder where model is saved
+    repo_id = "username/model-name",        # Your Hugging Face repo name
+    repo_type = "model"
+)
+
