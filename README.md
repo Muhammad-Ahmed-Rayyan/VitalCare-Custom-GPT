@@ -29,7 +29,7 @@ Built with **Streamlit** for an intuitive user interface and trained via the **H
 ## 🚀 Features
 
 - 🧬 **Fine-Tuned Medical Models**  
-  Multiple transformer-based language models (BioGPT variations) hosted on Hugging Face:
+  Multiple transformer-based language models hosted on Hugging Face:
   - `PastelMed`
   - `LynxMed`
   - `NeuraMed`
