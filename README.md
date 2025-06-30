@@ -80,8 +80,8 @@ streamlit run app.py
 All training is performed using Hugging Face's `transformers` and `datasets` libraries in the included notebook.
 
 ### `Model_Training_&_Upload.ipynb` Includes:
-- Loading and inspecting datasets (`BioASQ`)
-- Using tokenizer & model (`microsoft/biogpt`)
+- Loading and inspecting datasets
+- Using tokenizer & model
 - Preprocessing and training
 - Saving and uploading models to Hugging Face Hub
 
