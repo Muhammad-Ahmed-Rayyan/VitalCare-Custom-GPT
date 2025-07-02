@@ -9,6 +9,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-app-red?logo=streamlit)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-Models-yellow?logo=huggingface)
 ![Torch](https://img.shields.io/badge/torch-enabled-orange?logo=pytorch)
+![languages](https://img.shields.io/github/languages/count/Muhammad-Ahmed-Rayyan/VitalCare-Custom-GPT)
 
 </div>
 
