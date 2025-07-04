@@ -11,9 +11,9 @@
 <br>
 
 Built with the tools and technologies:  
-![Streamlit](https://img.shields.io/badge/Streamlit-app-red?style=for-the-badge&logo=streamlit&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-Models-yellow?style=for-the-badge&logo=huggingface&logoColor=white)
-![Torch](https://img.shields.io/badge/torch-enabled-orange?style=for-the-badge&logo=pytorch&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface&logoColor=white)
+![Torch](https://img.shields.io/badge/Torch-orange?style=for-the-badge&logo=pytorch&logoColor=white)
 
 </div>
 
