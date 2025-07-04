@@ -5,7 +5,8 @@
 **AI-Powered Multi-Role Medical Assistant using Hugging Face Transformers & Streamlit**
 
 ![Last Commit](https://img.shields.io/github/last-commit/Muhammad-Ahmed-Rayyan/VitalCare-Custom-GPT)
-![Python](https://img.shields.io/badge/Python-100%25-blue?logo=python)
+![Python](https://img.shields.io/badge/Python-92.1%25-blue?logo=python)
+![Jupyter](https://img.shields.io/badge/Jupyter-7.9%25-blue?style=for-the-badge&logo=jupyter&logoColor=white)
 ![languages](https://img.shields.io/github/languages/count/Muhammad-Ahmed-Rayyan/VitalCare-Custom-GPT)
 
 <br>
