@@ -13,7 +13,7 @@
 
 Built with the tools and technologies:  
 ![Streamlit](https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-ffba08?style=for-the-badge&logo=huggingface&logoColor=white)
 ![Torch](https://img.shields.io/badge/Torch-dc2f02?style=for-the-badge&logo=pytorch&logoColor=white)
 
 </div>
