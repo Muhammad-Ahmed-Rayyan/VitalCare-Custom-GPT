@@ -103,4 +103,12 @@ api.upload_folder(
     repo_id = "username/model-name",        # Your Hugging Face repo name
     repo_type = "model"
 )
+```
 
+---
+
+<div align="center">
+
+⭐ Support this project by dropping a star on GitHub!
+
+</div>
