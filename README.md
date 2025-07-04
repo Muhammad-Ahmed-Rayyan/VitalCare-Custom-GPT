@@ -6,10 +6,14 @@
 
 ![Last Commit](https://img.shields.io/github/last-commit/Muhammad-Ahmed-Rayyan/VitalCare-Custom-GPT)
 ![Python](https://img.shields.io/badge/Python-100%25-blue?logo=python)
-![Streamlit](https://img.shields.io/badge/Streamlit-app-red?logo=streamlit)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-Models-yellow?logo=huggingface)
-![Torch](https://img.shields.io/badge/torch-enabled-orange?logo=pytorch)
 ![languages](https://img.shields.io/github/languages/count/Muhammad-Ahmed-Rayyan/VitalCare-Custom-GPT)
+
+<br>
+
+Built with the tools and technologies:  
+![Streamlit](https://img.shields.io/badge/Streamlit-app-red?style=for-the-badge&logo=streamlit&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-Models-yellow?style=for-the-badge&logo=huggingface&logoColor=white)
+![Torch](https://img.shields.io/badge/torch-enabled-orange?style=for-the-badge&logo=pytorch&logoColor=white)
 
 </div>
 
